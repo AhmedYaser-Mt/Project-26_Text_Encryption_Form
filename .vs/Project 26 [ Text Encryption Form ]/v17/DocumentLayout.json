@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71ACC986-D473-459B-BDD7-DBD87B6ED981}|Project 26 [ Text Encryption Form ].csproj|E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\frmtextencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71ACC986-D473-459B-BDD7-DBD87B6ED981}|Project 26 [ Text Encryption Form ].csproj|solutionrelative:frmtextencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71ACC986-D473-459B-BDD7-DBD87B6ED981}|Project 26 [ Text Encryption Form ].csproj|e:\\users\\m\\source\\repos\\project 26 [ text encryption form ]\\frmtextencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ACC986-D473-459B-BDD7-DBD87B6ED981}|Project 26 [ Text Encryption Form ].csproj|solutionrelative:frmtextencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTextEncryption.cs",
+              "DocumentMoniker": "E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\frmTextEncryption.cs",
+              "RelativeDocumentMoniker": "frmTextEncryption.cs",
+              "ToolTip": "E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\frmTextEncryption.cs",
+              "RelativeToolTip": "frmTextEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:56:29.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTextEncryption.cs [Design]",
+              "DocumentMoniker": "E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\frmTextEncryption.cs",
+              "RelativeDocumentMoniker": "frmTextEncryption.cs",
+              "ToolTip": "E:\\Users\\m\\source\\repos\\Project 26 [ Text Encryption Form ]\\frmTextEncryption.cs [Design]",
+              "RelativeToolTip": "frmTextEncryption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:08:47.807Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
